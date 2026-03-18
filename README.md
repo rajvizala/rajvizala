@@ -1,3 +1,4 @@
+![AI Engineer Illustration](/assets/programmer.svg)
 # Hi there 👋, I'm Rajvi Zala
 
 <div align="center">
