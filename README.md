@@ -17,7 +17,7 @@ Building scalable backend systems, optimizing ML inference pipelines, and archit
 
 ## 🚀 About Me
 
-AI Engineer with hands-on experience building **distributed systems**, **LLM applications**, and **production-grade microservices**. Currently based in **Sunnyvale, CA** with a Master's degree in Artificial Intelligence from University at Buffalo. I specialize in:
+AI Engineer with hands-on experience building **distributed systems**, **LLM applications**, and **production-grade microservices**. Currently based in **New York** with a Master's degree in Artificial Intelligence from University at Buffalo. I specialize in:
 
 - 🧠 **LLM Optimization & Inference**: Quantization, caching, cost reduction (55-60% savings at scale)
 - 🏗️ **Distributed Systems**: Microservices, Kubernetes, Apache Kafka, high-throughput pipelines
